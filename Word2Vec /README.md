@@ -1,0 +1,1 @@
+Custom model train, using Gensim Word2Vec Model. Game of Thron's 5 books text data are taken as pretrained data.
