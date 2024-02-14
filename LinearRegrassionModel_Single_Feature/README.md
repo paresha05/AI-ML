@@ -1,0 +1,1 @@
+Based on 2 features (area,price) House price prediction done using LinerRegrassion Model with single feature use.
