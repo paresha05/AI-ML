@@ -1,3 +1,3 @@
 # AI-ML
 
-AI/ML related all learning and excercises.
+AI/ML learned model related all excercises.
