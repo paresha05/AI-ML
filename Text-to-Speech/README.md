@@ -1,3 +1,7 @@
-# GenAI
+# Text to Speech Conversion
 
-Text to Speech recognization of Hugging face transformers pipline.
+Using:
+- Huggingface Transformer
+- Whisper model - OpenAI
+- Transformer pipeline
+
