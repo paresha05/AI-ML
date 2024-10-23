@@ -1,6 +1,6 @@
 # AI-ML
 
-Generative AI
+Generative AI small projects
 
 1.) Word to Vector conversion and model training
 
