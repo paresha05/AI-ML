@@ -16,7 +16,7 @@ Generative AI small projects
 
 <a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/RAG_APP_Using_LLamaindex_and_Mistral.ipynb">7.) Simple RAG with LlamaIndex</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/rag_with_huggingface_and_mongodb_2.py">8.) Perform search from Custom MongoDB dataset using Transformer, Embedding and RAG</a>
+<a href="https://github.com/paresha05/AI-ML/tree/main/RAG">8.) Perform search from Custom MongoDB dataset using Transformer, Embedding and RAG</a>
 
 <a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/HugginFace-APIs-opensource.ipynb">9.) Image to text and Text to Image generation using GEMMA, Gemini, Dall-e</a>
 
