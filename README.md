@@ -2,7 +2,7 @@
 
 Generative AI small projects
 
-1.) Word to Vector conversion and model training
+#<a href="https://github.com/paresha05/AI-ML/tree/main/Word2Vec%20">1.) Word to Vector conversion and model training</a>
 
 2.) Transform in Text to Speech
 
