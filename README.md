@@ -22,8 +22,4 @@ Generative AI small projects
 
 <a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/LangChain_app_implementation.ipynb">10.) Sequential Chain using Langchain</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/Text_Summarizer_project.ipynb">11.) Text Summarizer using Transformers</a>
-
 <a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/huggingface_transformer.ipynb">12.) Fine-tune pre-trained BERT model using Huggingface Transformer</a>
-
-<a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/text_preprocessing.ipynb">13.) Text-preprocessing using Pandas, NLTK, Spacy libraries</a>

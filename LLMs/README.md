@@ -8,4 +8,6 @@ Using:
 - RAG
 
 Finetuning of Llama-2
+Finetuning of GPT
+Finetuning of Mistral
 RAG implementation using Llamaindex and MistralAI
