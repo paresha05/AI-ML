@@ -6,13 +6,13 @@ Generative AI small projects
 
 <a href="https://github.com/paresha05/AI-ML/tree/main/Text-to-Speech">2.) Transform in Text to Speech</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/custom-chatbot/custom_website_chatbot.ipynb">3.) Custom Website bot</a>
+<a href="https://github.com/paresha05/AI-ML/tree/main/custom-chatbot">3.) Custom Website bot</a>
 
 <a href="https://github.com/paresha05/AI-ML/tree/main/LangChain%20Q%26A%20App">4.) Question and Answering app</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/custom-chatbot/Prompts_in_LLMs.ipynb">5.) Custom Prompts in LLM</a>
+<a href="https://github.com/paresha05/AI-ML/tree/main/custom-chatbot">5.) Custom Prompts in LLM</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/https://github.com/paresha05/AI-ML/tree/main/Video-processing">6.) Video to Image, Video to Audio, Audio to Text using Multi-model RAG System</a>
+<a href="https://github.com/paresha05/AI-ML/tree/main/Video-processing">6.) Video to Image, Video to Audio, Audio to Text using Multi-model RAG System</a>
 
 <a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/RAG_APP_Using_LLamaindex_and_Mistral.ipynb">7.) Simple RAG with LlamaIndex</a>
 
