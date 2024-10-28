@@ -10,4 +10,5 @@ Using:
 Finetuning of Llama-2
 Finetuning of GPT
 Finetuning of Mistral
+Finetuning of LLM LORA using Hugging Face DPO Trainer
 RAG implementation using Llamaindex and MistralAI
