@@ -12,7 +12,7 @@ Generative AI small projects
 
 <a href="https://github.com/paresha05/AI-ML/blob/main/custom-chatbot/Prompts_in_LLMs.ipynb">5.) Custom Prompts in LLM</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/Multmodel_RAG_System_for_video_processing.ipynb">6.) Video to Image, Video to Audio, Audio to Text using Multi-model RAG System</a>
+<a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/https://github.com/paresha05/AI-ML/tree/main/Video-processing">6.) Video to Image, Video to Audio, Audio to Text using Multi-model RAG System</a>
 
 <a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/RAG_APP_Using_LLamaindex_and_Mistral.ipynb">7.) Simple RAG with LlamaIndex</a>
 
