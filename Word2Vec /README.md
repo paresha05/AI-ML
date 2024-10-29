@@ -1,4 +1,4 @@
-Word to Vector conversion
+# Word to Vector conversion
 
 Sample "Game of Throne"'s Text Data collected from Kaggle and saved in Data directory.
 
