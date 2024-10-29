@@ -1,7 +1,5 @@
 # Finetune - LLMs
 
-Llama2 implementation with RAG System and Hugging Face Transformers
-
 Finetuning of Llama-2
 
 Finetuning of GPT

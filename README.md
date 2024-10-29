@@ -14,7 +14,7 @@ Generative AI small projects
 
 <a href="https://github.com/paresha05/AI-ML/tree/main/Video-processing">6.) Video to Image, Video to Audio, Audio to Text using Multi-model RAG System</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/LLMs/RAG_APP_Using_LLamaindex_and_Mistral.ipynb">7.) Simple RAG with LlamaIndex</a>
+<a href="https://github.com/paresha05/AI-ML/tree/main/LLMs">7.) Finetune - LLMs</a>
 
 <a href="https://github.com/paresha05/AI-ML/tree/main/RAG">8.) Perform search from Custom MongoDB dataset using Transformer, Embedding and RAG</a>
 
@@ -22,4 +22,4 @@ Generative AI small projects
 
 <a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/LangChain_app_implementation.ipynb">10.) Sequential Chain using Langchain</a>
 
-<a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/huggingface_transformer.ipynb">12.) Fine-tune pre-trained BERT model using Huggingface Transformer</a>
+<a href="https://github.com/paresha05/AI-ML/blob/main/HuggingFace-Transformers/huggingface_transformer.ipynb">11.) Fine-tune pre-trained BERT model using Huggingface Transformer</a>
